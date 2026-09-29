@@ -1,0 +1,23 @@
+{
+  "simulation": false,
+  "window": {
+    "name": "大兴区生态环境局附近",
+    "configured": true,
+    "latitude": 39.7244,
+    "longitude": 116.336
+  },
+  "target": {
+    "name": "大兴区生态环境局附近",
+    "configured": true,
+    "latitude": 39.7244,
+    "longitude": 116.336
+  },
+  "_preset": {
+    "address": "北京市大兴区黄村兴政南巷8号",
+    "coordinate_system": "WGS84",
+    "coordinate_note": "兴政南巷道路参考点，非8号楼精确坐标；两卡暂共用该地点",
+    "address_source": "https://www.bjdx.gov.cn/bjsdxqrmzf/zwfw/jgzq/qzfjg/sthjj/jbxx5/index.html",
+    "coordinate_source": "https://www.openstreetmap.org/way/509128834",
+    "lookup": "OpenStreetMap Nominatim; road centroid 39.7243928,116.3359590"
+  }
+}

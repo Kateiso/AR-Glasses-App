@@ -1,0 +1,22 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+.DS_Store
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.apk
+*.aab
+
+# Voice credentials are only injected into the debug device, never versioned.
+voice-session.json
+__pycache__/
+
+# Local tool scratch
+.utmp/
